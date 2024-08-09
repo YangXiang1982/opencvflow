@@ -10,6 +10,9 @@ Compatible with OpenCV 4.5 version
 
 ## Install
 ```
+Download Node.js from https://nodejs.org/en and Install
+```
+```
 git clone https://github.com/Piemontez/opencvflow.git
 cd opencvflow
 yarn
