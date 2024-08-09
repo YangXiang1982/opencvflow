@@ -8,19 +8,31 @@ Open Computer Vision - Flow is an IDE for computer vision studies and testing.
 
 Compatible with OpenCV 4.5 version
 
-## Install
+## Install - Windows
 ```
 Download Node.js from https://nodejs.org/en and Install
 ```
 ```
+In Node.js cmd window
+
 git clone https://github.com/Piemontez/opencvflow.git
 cd opencvflow
-yarn
+npm install -g yarn
 ```
 
 ## Start
 ```
-npm dev
+npm run dev
+
+Until
+  VITE v5.3.2  ready in 10444 ms
+
+  ➜  Local:   http://localhost:xxxx/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+Copy the local into any web browser
+
 ```
 
 ## Folder Struct
